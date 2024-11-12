@@ -1,0 +1,16 @@
+C:\Users\Konstantinopol\source\repos\WinDeskAPP\WinDeskAPP\bin\Debug\net7.0-windows\WinDeskAPP.exe
+C:\Users\Konstantinopol\source\repos\WinDeskAPP\WinDeskAPP\bin\Debug\net7.0-windows\WinDeskAPP.deps.json
+C:\Users\Konstantinopol\source\repos\WinDeskAPP\WinDeskAPP\bin\Debug\net7.0-windows\WinDeskAPP.runtimeconfig.json
+C:\Users\Konstantinopol\source\repos\WinDeskAPP\WinDeskAPP\bin\Debug\net7.0-windows\WinDeskAPP.dll
+C:\Users\Konstantinopol\source\repos\WinDeskAPP\WinDeskAPP\bin\Debug\net7.0-windows\WinDeskAPP.pdb
+C:\Users\Konstantinopol\source\repos\WinDeskAPP\WinDeskAPP\obj\Debug\net7.0-windows\WinDeskAPP.Form1.resources
+C:\Users\Konstantinopol\source\repos\WinDeskAPP\WinDeskAPP\obj\Debug\net7.0-windows\WinDeskAPP.csproj.GenerateResource.cache
+C:\Users\Konstantinopol\source\repos\WinDeskAPP\WinDeskAPP\obj\Debug\net7.0-windows\WinDeskAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Konstantinopol\source\repos\WinDeskAPP\WinDeskAPP\obj\Debug\net7.0-windows\WinDeskAPP.AssemblyInfoInputs.cache
+C:\Users\Konstantinopol\source\repos\WinDeskAPP\WinDeskAPP\obj\Debug\net7.0-windows\WinDeskAPP.AssemblyInfo.cs
+C:\Users\Konstantinopol\source\repos\WinDeskAPP\WinDeskAPP\obj\Debug\net7.0-windows\WinDeskAPP.csproj.CoreCompileInputs.cache
+C:\Users\Konstantinopol\source\repos\WinDeskAPP\WinDeskAPP\obj\Debug\net7.0-windows\WinDeskAPP.dll
+C:\Users\Konstantinopol\source\repos\WinDeskAPP\WinDeskAPP\obj\Debug\net7.0-windows\refint\WinDeskAPP.dll
+C:\Users\Konstantinopol\source\repos\WinDeskAPP\WinDeskAPP\obj\Debug\net7.0-windows\WinDeskAPP.pdb
+C:\Users\Konstantinopol\source\repos\WinDeskAPP\WinDeskAPP\obj\Debug\net7.0-windows\WinDeskAPP.genruntimeconfig.cache
+C:\Users\Konstantinopol\source\repos\WinDeskAPP\WinDeskAPP\obj\Debug\net7.0-windows\ref\WinDeskAPP.dll
